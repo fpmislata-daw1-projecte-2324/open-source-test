@@ -2,3 +2,4 @@
 
 ## Poseu el vostre nom baix
 - Joan Puigcerver
+- David Peñalver
